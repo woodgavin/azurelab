@@ -1,12 +1,12 @@
 # Azure Compute and Networking Lab
 
-The goal of this lab is to create a Resource Group(RG) in Azure, then create a Virtual Machine(VM) within the RG and remotely connect to it.
+The goal of this lab is to create a Resource Group(RG) in Azure, then create a Virtual Machine(VM) within the RG and remotely connect to it. This will be used for [Active Directory](https://github.com/woodgavin/adlab), [File Permission and File Shares](https://github.com/woodgavin/npfslab), and [osTicket](https://github.com/woodgavin/osticketlab) projects, and as such, will mostly be a walk-through of my setup process for a VM.
 
 ![](/assets/1.png)
 
-* Click RG
+* Click RG.
 ![](/assets/1.png)
-* Click Create
+* Click Create.
 ![](/assets/2.png)
 * Name RG `Azurelabs`. I will use this RG for all other projects as well.
 ![](/assets/3.png)
@@ -42,3 +42,6 @@ The goal of this lab is to create a Resource Group(RG) in Azure, then create a V
 * trust certificate 
 * Log in.
 * Go through MS boot options.
+
+
+[Active Directory Lab](https://github.com/woodgavin/adlab)
